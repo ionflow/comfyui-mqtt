@@ -1,11 +1,11 @@
 [project]
-name = "comfyui-tooling-nodes"
+name = "comfyui-mqtt"
 description = "Provides nodes and server API extensions geared towards using ComfyUI as a backend for external tools."
 version = "1.1.0"
 license = "LICENSE"
 
 [project.urls]
-Repository = "https://github.com/ionflow/comfyui-tooling-nodes"
+Repository = "https://github.com/ionflow/comfyui-mqtt"
 
 [tool.black]
 line-length = 100
@@ -13,5 +13,5 @@ preview = true
 
 [tool.comfy]
 PublisherId = "ionflow"
-DisplayName = "comfyui-tooling-nodes"
+DisplayName = "comfyui-mqtt"
 Icon = ""
