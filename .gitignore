@@ -2,3 +2,7 @@
 .env
 .dev
 __pycache__
+
+*.pem
+*.key
+*.crt
