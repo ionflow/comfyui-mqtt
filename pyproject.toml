@@ -5,13 +5,13 @@ version = "1.1.0"
 license = "LICENSE"
 
 [project.urls]
-Repository = "https://github.com/Acly/comfyui-tooling-nodes"
+Repository = "https://github.com/ionflow/comfyui-tooling-nodes"
 
 [tool.black]
 line-length = 100
 preview = true
 
 [tool.comfy]
-PublisherId = "acly"
+PublisherId = "ionflow"
 DisplayName = "comfyui-tooling-nodes"
 Icon = ""
